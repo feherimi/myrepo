@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 
 #Kicsit valtoztattam, modt is no most meg tovabb.
 
+=======
+<<<<<<< HEAD
+#Kicsit valtoztattam, modt is no most meg tovabb.
+=======
+#Kicsit valtoztattam, modt is no most meg tovabb.
+>>>>>>> 426c1610568d3b203847760e5926730a963dc5ef
+>>>>>>> b4f4083fbda91f495cae524b051be13745cbeb55
 # Project workflow example
 
 This repository provides a sample project organization using data on bird collisions
