@@ -1,6 +1,8 @@
 
 #Kicsit valtoztattam, modt is no most meg tovabb.
 
+#Ujabb valtoztatas.
+
 This repository provides a sample project organization using data on bird collisions
 in Chicago. 
 
