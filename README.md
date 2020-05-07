@@ -1,4 +1,6 @@
-#Kicsit valtoztattam, modt is no most meg tovabb na meg tovabb.
+
+#Kicsit valtoztattam, modt is no most meg tovabb.
+
 # Project workflow example
 
 This repository provides a sample project organization using data on bird collisions
