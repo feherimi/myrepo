@@ -1,4 +1,4 @@
-#Kicsit valtoztattam
+#Kicsit valtoztattam, modt is.
 # Project workflow example
 
 This repository provides a sample project organization using data on bird collisions
