@@ -1,4 +1,4 @@
-#Kicsit valtoztattam, modt is.
+#Kicsit valtoztattam, modt is no most meg tovabb.
 # Project workflow example
 
 This repository provides a sample project organization using data on bird collisions
